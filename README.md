@@ -88,3 +88,4 @@ This page focuses on strategic insights for HR decision-making:
 ---
 
 ## 📸 Dashboard Snapshots  
+![Employee-Analysis-Final_SS1](https://github.com/user-attachments/assets/fef77bd6-0324-4c2c-bc04-0522c2641dcd)
