@@ -89,3 +89,5 @@ This page focuses on strategic insights for HR decision-making:
 
 ## 📸 Dashboard Snapshots  
 ![Employee-Analysis-Final_SS1](https://github.com/user-attachments/assets/fef77bd6-0324-4c2c-bc04-0522c2641dcd)
+
+<p align="center"> <a href="mailto:akshay.manchekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/akshaymanchekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.kaggle.com/akshaymanchekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://www.hackerrank.com/akshay_mancheka1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> </p>
