@@ -1,5 +1,8 @@
 # 👩‍💼 Employee Analysis Dashboard 👨‍💼  
 
+![Employee Analysis Cover Photo](https://github.com/user-attachments/assets/f9c6a37a-1159-4e2d-af0a-317b7cbfba68)
+
+
 ## 📊 Overview  
 The **Employee Analysis Dashboard** provides an in-depth view of workforce analytics, including employee demographics, performance, satisfaction, and organizational insights. This interactive dashboard enables HR professionals to make data-driven decisions to optimize employee engagement and organizational efficiency.  
 
