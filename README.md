@@ -6,7 +6,7 @@
 ## 📊 Overview  
 The **Employee Analysis Dashboard** provides an in-depth view of workforce analytics, including employee demographics, performance, satisfaction, and organizational insights. This interactive dashboard enables HR professionals to make data-driven decisions to optimize employee engagement and organizational efficiency.  
 
----
+<br>
 
 ## 🗂️ Data Overview  
 The project uses **2 tables** with detailed employee-related information:  
@@ -20,7 +20,7 @@ The project uses **2 tables** with detailed employee-related information:
 2. **HR Employee Data**:  
    - Links **Employee ID** to **Employee Name** for identification purposes.  
 
----
+<br>
 
 ## 📈 Dashboard Features  
 
@@ -34,7 +34,7 @@ This page provides quick insights into the workforce:
   - Average Hourly Rate.  
   - Average Monthly Income.  
 
----
+<br>
 
 ### **📊 Key Workforce Trends**  
 #### **💼 Workforce Demographics**  
@@ -64,7 +64,7 @@ This page provides quick insights into the workforce:
     - Human Resources  
     - Other  
 
----
+<br>
 
 #### **📊Employee Insights**  
 This page focuses on strategic insights for HR decision-making:  
@@ -73,14 +73,14 @@ This page focuses on strategic insights for HR decision-making:
   - **% Workforce Approaching Retirement**.  
   - **% Workforce Deemed as Low-Quality Employees**.  
 
----
+<br>
 
 ## 🛠️ Tools and Technologies  
 - **Power BI**: For creating visually rich, interactive dashboards.  
 - **SQL**: For data preprocessing and querying.  
 - **Excel**: For initial data preparation and cleaning.  
 
----
+<br>
 
 ## 💡 Key Insights  
 - **👩‍🏫 Education Field Trends**: Life Sciences dominates as the most common education field.  
@@ -88,9 +88,11 @@ This page focuses on strategic insights for HR decision-making:
 - **📍 Location Impact**: Distance from office has a noticeable impact on employee overtime participation.  
 - **📈 Strategic HR Metrics**: Key metrics like retirement readiness and promotion eligibility help forecast workforce changes.  
 
----
+<br>
 
 ## 📸 Dashboard Snapshots  
 ![Employee-Analysis-Final_SS1](https://github.com/user-attachments/assets/fef77bd6-0324-4c2c-bc04-0522c2641dcd)
+
+<br>
 
 <p align="center"> <a href="mailto:akshay.manchekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/akshaymanchekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.kaggle.com/akshaymanchekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://www.hackerrank.com/akshay_mancheka1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> </p>
